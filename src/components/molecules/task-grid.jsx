@@ -1,5 +1,5 @@
 import { useContext } from 'react'
-import { TaskContext } from '../contexts/task-context'
+import { TaskContext } from '../../contexts/task-context'
 import TaskCard from './task-card'
 
 function TaskGrid() {

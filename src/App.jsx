@@ -1,6 +1,6 @@
 import './App.css'
-import TaskForm from './components/task-form'
-import TaskGrid from './components/task-grid'
+import TaskForm from './components/molecules/task-form'
+import TaskGrid from './components/molecules/task-grid'
 
 function App() {
 
