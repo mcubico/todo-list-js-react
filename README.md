@@ -3,6 +3,8 @@
 Es una aplicación elaborada con [reactjs](https://reactjs.org), [vitejs](https://vitejs.dev) y [talwindcss](https://tailwindcss.com). Tiene como proposito gestionar 
 una lista de tareas.
 
+***[DEMO](https://mcubico.github.io/todo-list-js-react/)***
+
 ## Instalación
 1. `npm install`
 2. `npm run dev`
